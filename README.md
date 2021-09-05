@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on physically-based simulations.
-- bachelor: ex-CTFer(working on reverse engineering, give up halfway), experience with android developing and embedded system.
+- old bachelor days: ex-CTFer(working on reverse engineering, give up halfway), experience with android developing and embedded system.
 - ⚡ Have some fun: execute `xset r rate 10 28` at your terminal :)
 
 [linkedin](https://www.linkedin.com/in/yingxiang-he-857968179/)
