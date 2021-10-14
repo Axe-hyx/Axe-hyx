@@ -3,6 +3,7 @@
 - old bachelor days: ex-CTFer(working on reverse engineering, give up halfway), experience with android developing and embedded system.
 - ⚡ Have some fun: execute `xset r rate 10 28` at your terminal :)
 - CLI enthusiast, batman comics aficionado.
+- 😄 Pronouns: husband, expectant father
 
 [linkedin](https://www.linkedin.com/in/yingxiang-he-857968179/)
 <!--
@@ -16,6 +17,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 
 -->
