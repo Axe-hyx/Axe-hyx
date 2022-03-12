@@ -5,7 +5,7 @@
 - CLI enthusiast, batman comics aficionado.
 - 😄 Pronouns: husband, father.
 
-[linkedin](https://www.linkedin.com/in/yingxiang-he-857968179/)
+[linkedin](https://www.linkedin.com/in/yingxiang-he-857968179/) wechat: m_n-ter
 <!--
 **Axe-hyx/Axe-hyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
